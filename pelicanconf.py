@@ -3,7 +3,9 @@
 
 AUTHOR = 'Mercurial'
 SITENAME = 'The Quicksilver Journal'
-SITEURL = ''
+SITEURL = 'https://mercurial-max.github.io/quicksilver-journal/'
+
+THEME = '/home/reborn/Programming/blog/pelican/pelican-themes/nikhil-theme' 
 
 PATH = 'content'
 
@@ -19,14 +21,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'https://getpelican.com/'),
+#         ('Python.org', 'https://www.python.org/'),
+#         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
 
