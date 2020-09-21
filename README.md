@@ -1,3 +1,3 @@
 # quicksilver-journal
 Its a blog!
-https://quicksilver-mercurial.github.io
+https://quicksilver-mercurial.github.io/quicksilver-journal/
